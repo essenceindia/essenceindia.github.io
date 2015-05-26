@@ -4,8 +4,6 @@ title: "Post with Figure"
 description: "Examples and code for displaying images in posts."
 category: articles
 tags: [sample post, images, test]
-image:
-    feature: "http://www.t5eiitm.org/wp-content/uploads/2015/01/Planck_CMB1-1024x512.jpg""
 ---
 
 This is a post that uses a `figure`. It stacks these images and places a nice little caption below if you fill out `figcaption`.
